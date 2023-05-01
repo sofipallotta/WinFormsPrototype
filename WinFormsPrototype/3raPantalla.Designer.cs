@@ -50,11 +50,12 @@ namespace WinFormsPrototype
             this.radioButton1.AutoSize = true;
             this.radioButton1.Location = new System.Drawing.Point(114, 104);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(94, 19);
+            this.radioButton1.Size = new System.Drawing.Size(90, 19);
             this.radioButton1.TabIndex = 11;
             this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "radioButton1";
+            this.radioButton1.Text = "Alojamiento";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // _3raPantalla
             // 
