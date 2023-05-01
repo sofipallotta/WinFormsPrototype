@@ -26,5 +26,20 @@ namespace WinFormsPrototype
         {
 
         }
+
+        private void _3raPantalla_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Alojamiento_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Alojamiento_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
