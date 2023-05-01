@@ -16,7 +16,11 @@ namespace WinFormsPrototype
         {
             if (disposing && (components != null))
             {
+                //123123
+
                 components.Dispose();
+
+
             }
             base.Dispose(disposing);
         }
