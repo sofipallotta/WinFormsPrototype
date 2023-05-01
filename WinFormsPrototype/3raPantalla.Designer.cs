@@ -52,6 +52,7 @@ namespace WinFormsPrototype
             this.Controls.Add(this.label2);
             this.Name = "_3raPantalla";
             this.Text = "_3raPantalla";
+            this.Load += new System.EventHandler(this._3raPantalla_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
